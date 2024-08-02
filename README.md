@@ -15,6 +15,8 @@ Connect with me or get in touch below:
 	</a>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NetMasterMichael&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ## 🛠 Programming & Scripting Languages and Frameworks
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
