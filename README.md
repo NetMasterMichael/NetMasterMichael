@@ -17,7 +17,7 @@ Connect with me or get in touch below:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NetMasterMichael&theme=rising-sun&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## 🛠 Programming & Scripting Languages and Frameworks
+## 📝 Programming & Scripting Languages and Frameworks
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40">&nbsp;
@@ -34,7 +34,7 @@ Connect with me or get in touch below:
   <p>(and x86 assembly, but there is no official logo for that!)</p>
 </div>
 
-## Tools
+## 🛠 Tools
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse IPSE" alt="Eclipse IPSE" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
@@ -45,7 +45,7 @@ Connect with me or get in touch below:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40">&nbsp;
 </div>
 
-## Platforms
+## 🌐 Platforms
 <div id="platforms">
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Microsoft Windows" alt="Microsoft Windows" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">&nbsp;
