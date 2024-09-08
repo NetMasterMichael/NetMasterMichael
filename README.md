@@ -3,10 +3,11 @@ My name is Michael and I am from the UK. I am soon starting my third year (out o
 
 My primary interests are in operating systems, TCP/IP networking and all things security (cryptography, cybersecurity, etc!). I have only recently started using GitHub, but I have been programming since 2016.
 
-As of July 2024, I am currently working on:
-- 🛠 Learning x86 Assembly
-- 🖥 Learning Frontend Web Development
-- 💡 Getting ahead on next year's modules!
+As of September 2024, I am currently focused on:
+- 📚 Learning x86 Assembly
+- 💻 Working full time as an IT engineer
+- 📊 My [AlgorithmSuiteX project](https://github.com/NetMasterMichael/AlgorithmSuiteX) about comparing algorithms
+- 💡 Getting ahead on my third year modules!
 
 Connect with me or get in touch below:
 <div id="links">
